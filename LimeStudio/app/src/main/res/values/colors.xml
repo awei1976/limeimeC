@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 
 <!--
   ~ /*
@@ -32,7 +32,7 @@
     <color name="color_common_orange_hl">#FFFBB732</color>
     <color name="color_common_light_orange_hl">#FFF29238</color>
 
-    <!-- colors for light theme -->
+    <!-- colors for light theme (原始淺色主题) -->
 
     <color name="keyboard_background_light">#FFC8C8C8</color>
     <color name="second_background_light">#FFE1E1E1</color>
@@ -100,6 +100,40 @@
     <color name="second_background_relax_green_hl">#FF009444</color>
     <color name="foreground_relax_green">#FF003A17</color>
     <color name="second_foreground_relax_green">#FF009444</color>
+
+    <!-- ============================================ -->
+    <!-- 新增：清爽浅灰主题 (Clean Light Theme) -->
+    <!-- ============================================ -->
+    <!-- 键盘背景：浅灰色 -->
+    <color name="keyboard_background_clean_light">#FFE8E8E8</color>
+    <!-- 普通按键背景：纯白色 -->
+    <color name="second_background_clean_light">#FFFFFFFF</color>
+    <color name="second_background_clean_light_fl">#FFFBFBFB</color>
+    <!-- 候选字背景：更浅的灰 -->
+    <color name="third_background_clean_light">#FFF5F5F5</color>
+    <color name="composing_background_clean_light">#E0F0F0F0</color>
+
+    <!-- 功能键和候选字配置 -->
+    <color name="candidate_spacer_clean_light">#FF101010</color>
+    <color name="candidate_selection_keys_clean_light">#CC5E5A80</color>
+    <color name="candidate_emoji_icon_default_clean_light">#FF000000</color>
+
+    <!-- 文字颜色配置 -->
+    <!-- 普通按键文字：纯黑色 -->
+    <color name="foreground_clean_light">#FF000000</color>
+    <!-- 功能键文字：深灰色（Shift、Delete等） -->
+    <color name="second_foreground_clean_light">#FF808080</color>
+    <!-- 副标签文字：浅灰色 -->
+    <color name="third_foreground_clean_light">#FF9E9E9E</color>
+
+    <!-- 按键按下/强调颜色：蓝色 -->
+    <color name="clean_light_hl">#FF2196F3</color>
+    <!-- 按键按下时的浅蓝色 -->
+    <color name="clean_light_hl_light">#FF64B5F6</color>
+
+    <!-- 候选字背景和文字颜色 -->
+    <color name="candidate_background_clean_light">#FFF5F5F5</color>
+    <!-- ============================================ -->
 
 
     <color name="background_score">#88333333</color>
